@@ -33,7 +33,7 @@ pnpm dev
 ## API base URL (optional)
 
 Default backend base URL used by the frontend:
-- `http://localhost:3000/api/v1`
+- `http://localhost:3001/api/v1`
 
 ## Build / Preview
 
